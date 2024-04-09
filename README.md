@@ -5,10 +5,9 @@
 1. Introducción
     - [1.1 Introducción a Apache Hadoop](Introduccion/Introduccion_apache_hadoop.md)
     - [1.2 Historia](Introduccion/Historia.md)
-    - [1.3 Arquitectura de Hadoop](Introduccion/Arquitectura_de_Hadoop.md)
-    - [1.4 Componentes principales](Introduccion/Componentes_principales.md)
-    - [1.5 Alternativas a Hadoop](Introduccion/Alternativas_Hadoop.md)
-    - [1.6 Servicios Cloud](Introduccion/servicios_cloud.md)
+    - [1.3 Componentes principales](Introduccion/Componentes_principales.md)
+    - [1.4 Alternativas a Hadoop](Introduccion/Alternativas_Hadoop.md)
+    - [1.5 Servicios Cloud](Introduccion/servicios_cloud.md)
 
  
 

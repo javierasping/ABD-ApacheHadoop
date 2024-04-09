@@ -1,4 +1,4 @@
-## 1.6 Servicios Cloud
+## 1.5 Servicios Cloud
 
 No debemos olvidar que los proveedores cloud como AWS o Azure proporcionan servicios gestionados basados en Apache Hadoop. Por ejemplo, con el servicio HDInsight de Microsoft Azure, podemos desplegar y escalar clústers de varios tipos predefinidos de una manera sencilla y transparente. Con EMR, en AWS, podemos desplegar el ecosistema de Hadoop. Estos servicios tienen muchas ventajas asociadas al ahorro de costes de infraestructura y de gestión y es importante analizarlos.
 
