@@ -1,4 +1,4 @@
-## 1.5 Alternativas a Hadoop
+## 1.4 Alternativas a Hadoop
 
 Para evaluar las alternativas a Hadoop que existen en el mercado debemos tener en cuenta que menudo podemos integrar diversas tecnologías para resolver el problema que se nos plantea.
 
