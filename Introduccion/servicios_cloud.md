@@ -1,0 +1,7 @@
+## 1.6 Servicios Cloud
+
+No debemos olvidar que los proveedores cloud como AWS o Azure proporcionan servicios gestionados basados en Apache Hadoop. Por ejemplo, con el servicio HDInsight de Microsoft Azure, podemos desplegar y escalar clústers de varios tipos predefinidos de una manera sencilla y transparente. Con EMR, en AWS, podemos desplegar el ecosistema de Hadoop. Estos servicios tienen muchas ventajas asociadas al ahorro de costes de infraestructura y de gestión y es importante analizarlos.
+
+Además de su uso como servicio, podemos considerar alternativas basadas en la nube como Databricks. Este servicio proporciona Spark como servicio, pudiendo desplegar clústers y cargas de trabajo bajo demanda y con escalabilidad automática. Tenemos que tener en cuenta que este tipo de soluciones resuelven el problema del procesamiento de nuestros datos pero no proporcionan el sistema de almacenamiento como HDFS.
+
+Si el objetivo es obtener una plataforma del dato como Data Warehouse totalmente gestionado se pueden evaluar otras soluciones como Snowflake. Esto permite abstraer aún más el despliegue al ser software como servicio. Hadoop no se trata de una base de datos NoSQL y tiene unos costes asociados a su complejidad.

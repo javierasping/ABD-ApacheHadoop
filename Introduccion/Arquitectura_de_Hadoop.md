@@ -1,0 +1,5 @@
+## 1.3 Arquitectura de Hadoop
+
+Anteriormente, en los sistemas tradicionales, las tecnologías se han enfocado en traer los datos a los sistemas de almacenamiento. Sin embargo, en los procesos Hadoop, se trata de acercar el procesamiento al lugar en donde se encuentran almacenados los datos y así aprovechar técnicas de paralelización, aumentando de manera importante la escalabilidad y el rendimiento de los sistemas que trabajan con grandes cantidades de datos.
+
+La arquitectura de Hadoop y su diseño está basado en la idea de que mover el procesamiento es mucho más rápido, fácil y eficiente que mover grandes cantidades de datos, que pueden producir altas latencias y congestión en la red. El sistema de ficheros distribuido de Hadoop (HDFS) proporciona a las aplicaciones la capacidad de acceder a los datos en el lugar en el que se encuentren almacenados.
