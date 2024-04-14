@@ -1,5 +1,8 @@
 ## 1.1 Introducción a Apache Hadoop
 
+![](/Introduccion/img/logo_apachehadoop.jpg)
+
+
 En el panorama del procesamiento y análisis de datos a gran escala, Apache Hadoop se ha establecido como una piedra angular fundamental. Este framework de software, desarrollado por Doug Cutting en 2006, surgió como una solución innovadora para abordar el desafío de procesar grandes volúmenes de datos de manera eficiente y rentable.
 
 Hadoop, basado en Java, ofrece una arquitectura distribuida que permite fragmentar tareas de cálculo y distribuirlas en nodos de un clúster de computadoras, lo que permite un procesamiento paralelo de datos. Esta capacidad de escalar horizontalmente, utilizando hardware estándar, ha democratizado el acceso al procesamiento de Big Data, eliminando la necesidad de costosos equipos de última generación.
