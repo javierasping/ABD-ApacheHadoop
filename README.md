@@ -10,6 +10,7 @@
     - [1.3 Componentes principales](Introduccion/Componentes_principales.md)
     - [1.4 Alternativas a Hadoop](Introduccion/Alternativas_Hadoop.md)
     - [1.5 Servicios Cloud](Introduccion/servicios_cloud.md)
+    - [1.6 Tipos de análisis ](Introduccion/tipos_de_analisis.md)
 
 2. Despliegue de Apache Hadoop en Docker
     - [2.1 Explicación del entorno](despliegue/entorno.md)
@@ -21,7 +22,8 @@
     - [3.1 Gestión de ficheros](comandos/ficheros.md)
     - [3.2 Gestión de permisos](comandos/permisos.md)
     - [3.3 Comandos de administración](comandos/administracion.md)
-
+4. Ejercicios prácticos
+    - [4.1 Contar palabras](practicos/contar_palabras.md)
 
 
 ## Bibliografía
