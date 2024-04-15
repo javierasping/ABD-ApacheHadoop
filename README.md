@@ -36,5 +36,5 @@
 - [Curso apache Hadoop coursera](https://coursera.pxf.io/c/3308124/1242836/14726?prodsku=crse%3A3j8WjTxDEeW0tw4knrMo3Q&u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fhadoop&intsrc=PUI2_9419)
 - [Introducción al Big Data con Apache Hadoop](https://aprenderbigdata.com/hadoop/)
 - [Stackable Operator for Apache Hadoop](https://github.com/stackabletech/hdfs-operator)
-- [](https://raw.githubusercontent.com/eiswar/hadoop-on-k8s/master/hadoop.yaml)
-- [](https://artifacthub.io/packages/helm/apache-hadoop-helm/hadoop)
+- [Hadoop yml](https://raw.githubusercontent.com/eiswar/hadoop-on-k8s/master/hadoop.yaml)
+- [Hadoop helm](https://artifacthub.io/packages/helm/apache-hadoop-helm/hadoop)
