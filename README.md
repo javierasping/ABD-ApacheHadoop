@@ -24,7 +24,7 @@
     - [3.3 Comandos de administración](comandos/administracion.md)
 4. Ejercicios prácticos
     - [4.1 Contar palabras](practicos/contar_palabras.md)
-
+    - [4.2 Encontrar la temperatura máxima global para cada año](practicos/temperatura_maxima.md)
 
 ## Bibliografía
 
@@ -38,3 +38,4 @@
 - [Stackable Operator for Apache Hadoop](https://github.com/stackabletech/hdfs-operator)
 - [Hadoop yml](https://raw.githubusercontent.com/eiswar/hadoop-on-k8s/master/hadoop.yaml)
 - [Hadoop helm](https://artifacthub.io/packages/helm/apache-hadoop-helm/hadoop)
+- [Código caso practico temperaturas](https://lonami.dev/blog/mdad/a-practical-example-with-hadoop/)
