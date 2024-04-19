@@ -4,7 +4,7 @@ Para desplegar un entorno de Apache Hadoop, he optado por utilizar contenedores 
 
 Para ello he utilizado una version de la comunidad y la he modificado para adaptarla a este proyecto , te dejo el [enlace a mi repositorio](https://github.com/javierasping/docker-hadoop.git) .
 
-Para desplegar el clúster de forma cómoda y eficiente, hemos optado por utilizar docker-compose. En nuestro archivo docker-compose.yml, hemos definido los siguientes nodos:
+Para desplegar el clúster de forma cómoda y eficiente, he optado por utilizar docker-compose. En nuestro archivo docker-compose.yml, hemos definido los siguientes nodos:
 
 - Namenode: El corazón del sistema de archivos distribuido de Hadoop. Administra el acceso a los datos y coordina el almacenamiento en el clúster.
 - Datanode: Almacena y gestiona los datos en el clúster, siguiendo las instrucciones del namenode.
@@ -14,7 +14,7 @@ Para desplegar el clúster de forma cómoda y eficiente, hemos optado por utiliz
 
 Cada servicio está configurado con detalles específicos, como la imagen de Docker a utilizar, el nombre del contenedor, los puertos expuestos y cualquier otra configuración necesaria, como variables de entorno.
 
-Además, hemos definido volúmenes para persistir los datos generados por los servicios de Hadoop, asegurando así la disponibilidad de la información crítica incluso en caso de reinicios o detenciones de los contenedores.
+Además, hemos definido volúmenes para hacer permanente los datos generados por los servicios de Hadoop, asegurando así la disponibilidad de la información crítica incluso en caso de reinicios o detenciones de los contenedores.
 
 Te dejo aquí el fichero aunque puedes encontrarlo en el enlace al principio de este :
 
